@@ -1,7 +1,9 @@
-##YENİ EKRAN
+## YENİ EKRAN
+
 <img width="238" height="555" alt="Screenshot_105" src="https://github.com/user-attachments/assets/c2334e8b-ddea-49b4-88dc-db60e3043e34" />
 
-#Widget Code
+# Widget Code
+
 class Estoque extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
